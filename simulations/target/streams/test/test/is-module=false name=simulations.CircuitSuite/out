@@ -1,8 +1,0 @@
-[0m[[0minfo[0m] [0m[32mCircuitSuite:[0m[0m
-[0m[[0minfo[0m] [0m[32m- andGate example[0m[0m
-[0m[[0minfo[0m] [0m[32m- orGate 1 example[0m[0m
-[0m[[0minfo[0m] [0m[32m- orGate 2 example[0m[0m
-[0m[[0minfo[0m] [0m[32m- Demux 1 output[0m[0m
-[0m[[0minfo[0m] [0m[32m- Demux 2 output[0m[0m
-[0m[[0minfo[0m] [0m[32m- Demux 4 output[0m[0m
-[0m[[0minfo[0m] [0m[32m- Demux 8 output[0m[0m
